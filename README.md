@@ -1,3 +1,1 @@
 # kreislauf-rechner
-
-help
